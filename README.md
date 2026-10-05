@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.gif" width="480" alt="Animated monochrome computer icons" />
+  <img src="assets/black-hole.png" width="480" alt="Monochrome black hole and accretion disk" />
 </p>
 
 <h1 align="center">Hey, I'm Aruzhan.</h1>
