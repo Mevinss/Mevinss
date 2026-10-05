@@ -1,56 +1,83 @@
-<div align="center">
+<p align="center">
+  <img src="assets/49-51.png" width="100%" alt="[49/51] — a black and white banner" />
+</p>
 
-# Hi, I'm Aruzhan 👋
+<h1 align="center">Hey, I'm Aruzhan.</h1>
+<p align="center"><samp>AI STUDENT &nbsp; / &nbsp; PYTHON DEVELOPER &nbsp; / &nbsp; MEVINSS</samp></p>
+<p align="center"><i>Curious about how machines see, understand and move.</i></p>
 
-### Machine Learning · Data Analytics · Python Development
+<p align="center">
+  <a href="https://www.linkedin.com/in/aruzhan-serikpayeva-9b5678333"><img src="https://img.shields.io/badge/LinkedIn-171b22?style=for-the-badge&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aruzhanserikpaevaa@gmail.com"><img src="https://img.shields.io/badge/Email-171b22?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Aruzhan" /></a>
+  <a href="https://github.com/Mevinss?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_code-171b22?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+## A little about me
 
-<br><br>
+I'm studying **Artificial Intelligence at L.N. Gumilyov Eurasian National University** in Astana, Kazakhstan.
 
-I turn data into models, dashboards and useful applications.<br>
-My projects explore forecasting, ML scoring, computer vision and speech recognition.
+I'm drawn to the parts of AI that connect code with the world: **computer vision**, **robotics**, and **natural language processing**. I want to understand how a system can recognize a gesture, make sense of speech, or use perception to decide what to do next.
 
-Third-year **Artificial Intelligence** student at **L.N. Gumilyov Eurasian National University**.<br>
-Experience with sales analytics, KPI dashboards and Python-based educational visualizations.
+My projects range from **real-time gesture recognition** and **Kazakh speech transcription** to **ML scoring** and **forecasting**. I enjoy connecting models to Python APIs and building applications people can actually interact with.
 
-📍 **Astana, Kazakhstan** · Open to **junior roles and internships**
+**Currently exploring:** visual perception, language and speech models, and the foundations of intelligent robotic systems.
+
+<p align="center"><img src="assets/perceive-understand-act.svg" width="100%" alt="My interests: computer vision to perceive, language to understand, robotics to act." /></p>
+
+## Tools I work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn,fastapi,flask&amp;theme=dark" alt="Python, TensorFlow, OpenCV, scikit-learn, FastAPI and Flask" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,java,cpp,html,css&amp;theme=dark" alt="Git, GitHub, Docker, Java, C++, HTML and CSS" />
+</p>
+
+<p align="center"><samp>ALSO IN MY TOOLKIT</samp><br>
+pandas · NumPy · SQL · Jupyter · MediaPipe · Whisper · XGBoost
+</p>
+
+## Things I've been building
+
+### Vision & language
+
+**[Kazakh ASR — speech into text](https://github.com/Mevinss/Kazakh-Audio-Translator)**  
+An audio/video transcription application comparing Whisper Base, Medium and Faster-Whisper Large-v3. Reference-based WER/CER evaluation, transcription history and SRT subtitle export.  
+<sub>Python · Whisper · Flask · SQLite · FFmpeg</sub>
+
+**Gesture-controlled interaction**  
+Real-time hand gesture recognition for digital input, with MediaPipe landmarks and OpenCV frame processing.  
+<sub>Python · MediaPipe · OpenCV</sub>
+
+**[Deepfake detection & compression](https://github.com/Mevinss/Deepfake-Detection-Compression-Study)**  
+A project exploring lightweight computer vision models and how video compression affects deepfake detection.  
+<sub>PyTorch · OpenCV · MobileNetV3 · EfficientNet · GhostNet</sub>
+
+### Applied machine learning
+
+**[Van Gogh — subsidy application scoring](https://github.com/albina0dali/Van_Gogh)**  
+Team hackathon project with model training, scoring, shortlists, explanations of scoring factors and regional reports.  
+<sub>Python · scikit-learn · XGBoost · Flask</sub>
+
+**[Jibek Joly — railway dispatch assistant](https://github.com/albina0dali/Jibek_Joly)**  
+Team prototype for simulating incidents, comparing dispatch plans and previewing decisions on synthetic railway data.  
+<sub>Python · FastAPI · OR-Tools · SQLite</sub>
+
+**[WindPilot — wind power forecasting](https://github.com/Mevinss/windpilot-demo)**  
+Team project forecasting hourly wind power 24–48 hours ahead, with weather features, historical model evaluation and a Python API.  
+<sub>Python · pandas · scikit-learn · FastAPI</sub>
+
+## Built with a team. Recognized at hackathons.
+
+| CyberShield 2026 | KTZ ALT 2026 |
+| :--- | :--- |
+| **2nd place** · Van Gogh | **4th place** · Jibek Joly |
+| ML scoring for subsidy applications | Railway dispatch decision support |
 
 ---
 
-**🥈 CyberShield 2026 — 2nd place with my team**<br>
-ML scoring for subsidy applications, training pipelines and regional reporting.
-
-**🏅 KTZ ALT 2026 — 4th place with my team**<br>
-Jibek Joly: a railway dispatch decision-support prototype.
-
----
-
-<a href="https://www.linkedin.com/in/aruzhan-serikpayeva-9b5678333"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-
-</div>
-
-### Selected projects
-
-| Project | What it does | Technologies |
-| :--- | :--- | :--- |
-| [**Van Gogh**](https://github.com/albina0dali/Van_Gogh) · CyberShield | Team prototype for subsidy scoring, shortlists, explanations and regional reports. | Python, scikit-learn, XGBoost, Flask |
-| [**Jibek Joly**](https://github.com/albina0dali/Jibek_Joly) · KTZ ALT | Team prototype for incident simulation, comparing dispatch plans and reviewing results on synthetic railway data. | Python, FastAPI, OR-Tools, SQLite |
-| [**WindPilot**](https://github.com/Mevinss/windpilot-demo) | Team project forecasting wind power 24–48 hours ahead, with historical evaluation and an interactive dashboard. | Python, pandas, scikit-learn, FastAPI |
-| [**Kazakh ASR**](https://github.com/Mevinss/Kazakh-Audio-Translator) | Audio/video transcription, ASR model comparison, WER/CER evaluation and subtitle export. | Python, Whisper, Flask, SQLite |
-
-<details>
-<summary><b>More about my toolkit</b></summary>
-
-- **Data:** SQL, pandas, NumPy, Excel, Google Sheets; Power BI and Tableau in academic projects.
-- **ML & computer vision:** scikit-learn, TensorFlow, CNNs, OpenCV, MediaPipe; data preparation and model evaluation.
-- **Development:** Python, Java, C++, HTML/CSS, REST APIs, Git, Docker and Jupyter.
-- **Languages:** Kazakh (native), Russian (C1), English (B1).
-
-</details>
+<p align="center">
+  <b>Let's build something worth figuring out.</b><br><br>
+  Open to junior opportunities, internships and collaborations in AI / ML and Python development.<br>
+  <sub>Astana, Kazakhstan · Kazakh / Russian / English</sub>
+</p>
