@@ -14,7 +14,7 @@
 
 ## A little about me
 
-<img align="right" src="assets/forgot-cat.jpg" width="160" alt="Кот с подписью «Забыл»" />
+<img align="right" src="assets/forgot-cat.jpg" width="120" alt="Кот с подписью «Забыл»" />
 
 I'm studying **Artificial Intelligence at L.N. Gumilyov Eurasian National University** in Astana, Kazakhstan.
 
@@ -57,34 +57,30 @@ My projects range from **real-time gesture recognition** and **Kazakh speech tra
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="20" src="https://img.shields.io/badge/CSS-171b22?style=for-the-badge&amp;logo=css&amp;logoColor=d1d5db" alt="CSS documentation" /></a>
 </p>
 
-## Things I've been building
+## Selected projects
 
-### Vision & language
-
-**[Kazakh ASR — speech into text](https://github.com/Mevinss/Kazakh-Audio-Translator)**  
-An audio/video transcription application comparing Whisper Base, Medium and Faster-Whisper Large-v3. Reference-based WER/CER evaluation, transcription history and SRT subtitle export.  
+**[Kazakh ASR](https://github.com/Mevinss/Kazakh-Audio-Translator)**  
+Kazakh audio/video transcription with Whisper model comparison and WER/CER evaluation.  
 <sub>Python · Whisper · Flask · SQLite · FFmpeg</sub>
 
 **Gesture-controlled interaction**  
-Real-time hand gesture recognition for digital input, with MediaPipe landmarks and OpenCV frame processing.  
+Real-time hand gesture recognition for digital input using tracked hand landmarks.  
 <sub>Python · MediaPipe · OpenCV</sub>
 
 **[Deepfake detection & compression](https://github.com/Mevinss/Deepfake-Detection-Compression-Study)**  
-A project exploring lightweight computer vision models and how video compression affects deepfake detection.  
+Lightweight vision models for deepfake detection and video compression robustness evaluation.  
 <sub>PyTorch · OpenCV · MobileNetV3 · EfficientNet · GhostNet</sub>
 
-### Applied machine learning
-
-**[Van Gogh — subsidy application scoring](https://github.com/albina0dali/Van_Gogh)**  
-Team hackathon project with model training, scoring, shortlists, explanations of scoring factors and regional reports.  
+**[Van Gogh](https://github.com/albina0dali/Van_Gogh)**  
+Team prototype for subsidy application scoring, shortlists and prediction explanations.  
 <sub>Python · scikit-learn · XGBoost · Flask</sub>
 
-**[Jibek Joly — railway dispatch assistant](https://github.com/albina0dali/Jibek_Joly)**  
-Team prototype for simulating incidents, comparing dispatch plans and previewing decisions on synthetic railway data.  
+**[Jibek Joly](https://github.com/albina0dali/Jibek_Joly)**  
+Team railway simulation for comparing dispatch plans and incident recovery scenarios.  
 <sub>Python · FastAPI · OR-Tools · SQLite</sub>
 
-**[WindPilot — wind power forecasting](https://github.com/Mevinss/windpilot-demo)**  
-Team project forecasting hourly wind power 24–48 hours ahead, with weather features, historical model evaluation and a Python API.  
+**[WindPilot](https://github.com/Mevinss/windpilot-demo)**  
+Team forecasting project predicting wind power 24–48 hours ahead from weather and historical data.  
 <sub>Python · pandas · scikit-learn · FastAPI</sub>
 
 ## Built with a team. Recognized at hackathons.
