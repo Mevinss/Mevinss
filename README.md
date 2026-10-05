@@ -30,15 +30,41 @@ My projects range from **real-time gesture recognition** and **Kazakh speech tra
 
 ## Tools I work with
 
+<p align="center"><samp>MACHINE LEARNING</samp></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn,fastapi,flask&amp;theme=dark" alt="Python, TensorFlow, OpenCV, scikit-learn, FastAPI and Flask" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,java,cpp,html,css&amp;theme=dark" alt="Git, GitHub, Docker, Java, C++, HTML and CSS" />
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-171b22?style=for-the-badge&amp;logo=python&amp;logoColor=d1d5db" alt="Python documentation" /></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-171b22?style=for-the-badge&amp;logo=pytorch&amp;logoColor=d1d5db" alt="PyTorch documentation" /></a>
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-171b22?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=d1d5db" alt="TensorFlow documentation" /></a>
+  <a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/scikit--learn-171b22?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=d1d5db" alt="scikit-learn documentation" /></a>
+  <a href="https://xgboost.readthedocs.io/"><img src="https://img.shields.io/badge/XGBoost-171b22?style=for-the-badge&amp;logoColor=d1d5db" alt="XGBoost documentation" /></a>
 </p>
 
-<p align="center"><samp>ALSO IN MY TOOLKIT</samp><br>
-pandas · NumPy · SQL · Jupyter · MediaPipe · Whisper · XGBoost
+<p align="center"><samp>VISION &amp; LANGUAGE</samp></p>
+<p align="center">
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-171b22?style=for-the-badge&amp;logo=opencv&amp;logoColor=d1d5db" alt="OpenCV documentation" /></a>
+  <a href="https://ai.google.dev/edge/mediapipe/solutions/guide"><img src="https://img.shields.io/badge/MediaPipe-171b22?style=for-the-badge&amp;logo=mediapipe&amp;logoColor=d1d5db" alt="MediaPipe documentation" /></a>
+  <a href="https://github.com/openai/whisper"><img src="https://img.shields.io/badge/Whisper-171b22?style=for-the-badge&amp;logoColor=d1d5db" alt="Whisper documentation" /></a>
+</p>
+
+<p align="center"><samp>DATA &amp; ANALYSIS</samp></p>
+<p align="center">
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-171b22?style=for-the-badge&amp;logo=pandas&amp;logoColor=d1d5db" alt="pandas documentation" /></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-171b22?style=for-the-badge&amp;logo=numpy&amp;logoColor=d1d5db" alt="NumPy documentation" /></a>
+  <a href="https://www.sqlite.org/lang.html"><img src="https://img.shields.io/badge/SQL-171b22?style=for-the-badge&amp;logoColor=d1d5db" alt="SQL documentation" /></a>
+  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-171b22?style=for-the-badge&amp;logo=jupyter&amp;logoColor=d1d5db" alt="Jupyter documentation" /></a>
+</p>
+
+<p align="center"><samp>DEVELOPMENT</samp></p>
+<p align="center">
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-171b22?style=for-the-badge&amp;logo=fastapi&amp;logoColor=d1d5db" alt="FastAPI documentation" /></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-171b22?style=for-the-badge&amp;logo=flask&amp;logoColor=d1d5db" alt="Flask documentation" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-171b22?style=for-the-badge&amp;logo=docker&amp;logoColor=d1d5db" alt="Docker documentation" /></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-171b22?style=for-the-badge&amp;logo=git&amp;logoColor=d1d5db" alt="Git documentation" /></a>
+  <a href="https://docs.github.com/"><img src="https://img.shields.io/badge/GitHub-171b22?style=for-the-badge&amp;logo=github&amp;logoColor=d1d5db" alt="GitHub documentation" /></a>
+  <a href="https://dev.java/"><img src="https://img.shields.io/badge/Java-171b22?style=for-the-badge&amp;logoColor=d1d5db" alt="Java documentation" /></a>
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-171b22?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=d1d5db" alt="C++ documentation" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-171b22?style=for-the-badge&amp;logo=html5&amp;logoColor=d1d5db" alt="HTML documentation" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-171b22?style=for-the-badge&amp;logo=css&amp;logoColor=d1d5db" alt="CSS documentation" /></a>
 </p>
 
 ## Things I've been building
