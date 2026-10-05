@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/celestial-clock.png" width="720" alt="Celestial clock with silver orbital lines on a dark background" />
+  <img src="assets/minimal-dunes.png" width="720" alt="Welcome to Aruzhan's GitHub — minimalist monochrome dunes" />
 </p>
 
 <h1 align="center">Hey, I'm Aruzhan.</h1>
