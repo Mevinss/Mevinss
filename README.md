@@ -14,7 +14,7 @@
 
 ## A little about me
 
-<img align="right" src="assets/forgot-cat.jpg" width="120" alt="Кот с подписью «Забыл»" />
+<img align="right" src="assets/forgot-cat.jpg" width="160" alt="Кот с подписью «Забыл»" />
 
 I'm studying **Artificial Intelligence at L.N. Gumilyov Eurasian National University** in Astana, Kazakhstan.
 
@@ -63,7 +63,7 @@ My projects range from **real-time gesture recognition** and **Kazakh speech tra
 Kazakh audio/video transcription with Whisper model comparison and WER/CER evaluation.  
 <sub>Python · Whisper · Flask · SQLite · FFmpeg</sub>
 
-**Gesture-controlled interaction**  
+**[SmartQuiz-CV — gesture-controlled interaction](https://github.com/a1ksh/SmartQuiz-CV)**  
 Real-time hand gesture recognition for digital input using tracked hand landmarks.  
 <sub>Python · MediaPipe · OpenCV</sub>
 
