@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/clock-spiral.png" width="480" alt="Monochrome spiral of clocks" />
+  <img src="assets/celestial-clock.png" width="720" alt="Celestial clock with silver orbital lines on a dark background" />
 </p>
 
 <h1 align="center">Hey, I'm Aruzhan.</h1>
