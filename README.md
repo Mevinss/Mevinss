@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/49-51.png" width="420" alt="[49/51] — a black and white banner" />
+  <img src="assets/header.gif" width="480" alt="Animated monochrome computer icons" />
 </p>
 
 <h1 align="center">Hey, I'm Aruzhan.</h1>
@@ -14,6 +14,8 @@
 
 ## A little about me
 
+<img align="right" src="assets/forgot-cat.jpg" width="160" alt="Кот с подписью «Забыл»" />
+
 I'm studying **Artificial Intelligence at L.N. Gumilyov Eurasian National University** in Astana, Kazakhstan.
 
 I'm drawn to the parts of AI that connect code with the world: **computer vision**, **robotics**, and **natural language processing**. I want to understand how a system can recognize a gesture, make sense of speech, or use perception to decide what to do next.
@@ -21,6 +23,8 @@ I'm drawn to the parts of AI that connect code with the world: **computer vision
 My projects range from **real-time gesture recognition** and **Kazakh speech transcription** to **ML scoring** and **forecasting**. I enjoy connecting models to Python APIs and building applications people can actually interact with.
 
 **Currently exploring:** visual perception, language and speech models, and the foundations of intelligent robotic systems.
+
+<br clear="all" />
 
 <p align="center"><img src="assets/perceive-understand-act.svg" width="100%" alt="My interests: computer vision to perceive, language to understand, robotics to act." /></p>
 
@@ -73,6 +77,15 @@ Team project forecasting hourly wind power 24–48 hours ahead, with weather fea
 | :--- | :--- |
 | **2nd place** · Van Gogh | **4th place** · Jibek Joly |
 | ML scoring for subsidy applications | Railway dispatch decision support |
+
+## GitHub activity
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mevinss&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=e6edf3&amp;text_color=9da7b3&amp;icon_color=c9d1d9" alt="Mevinss GitHub statistics: stars, commits, pull requests and contributions" />
+  <img width="50%" src="https://streak-stats.demolab.com?user=Mevinss&amp;hide_border=true&amp;background=0D1117&amp;ring=C9D1D9&amp;fire=C9D1D9&amp;currStreakLabel=E6EDF3&amp;sideLabels=9DA7B3&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;dates=9DA7B3" alt="Mevinss contribution streak" />
+</p>
+
+<p align="center"><sub>Live cards reflect public GitHub activity and may update with a delay.</sub></p>
 
 ---
 
