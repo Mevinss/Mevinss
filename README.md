@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/49-51.png" width="100%" alt="[49/51] — a black and white banner" />
+  <img src="assets/49-51.png" width="420" alt="[49/51] — a black and white banner" />
 </p>
 
 <h1 align="center">Hey, I'm Aruzhan.</h1>
